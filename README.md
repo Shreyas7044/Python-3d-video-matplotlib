@@ -58,7 +58,7 @@ python main.py
 ---
 
 ## 🖼️ Screenshot
-![Application Screenshot](Python-bulk-email-automation/screenshot.png)
+![Application Screenshot](Python-3d-video-matplotlib/screenshot.png)
 
 ---
 
